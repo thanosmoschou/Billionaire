@@ -1,0 +1,24 @@
+Πόσο κάνει 1+1?
+a) 1
+b) 2
+c) Κασέρι
+d) 6
+b
+What is the capital of Greece?
+a) Thessaloniki
+b) Athens
+c) Rhodes
+d) Heraklion
+b
+What color does tomato have?
+a) Red
+b) Blue
+c) Black
+d) Yellow
+a
+How many continents exist?
+a) 5
+b) 4
+c) 7
+d) 9
+c
